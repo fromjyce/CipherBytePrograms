@@ -2,10 +2,10 @@
 Explore my GitHub repository, containing a series of projects developed during my Java programming internship at CipherByte. These projects provide a comprehensive view of my journey, demonstrating skills such as random number guessing in "Guess Number," user-friendly interfaces in "ATM Interface," online examination capabilities in "Online Examination Tool," and digital library resource management in the "Digital Library Management System." These projects collectively chart my progression from an intern to a skilled Java programmer, offering a concise narrative of my development and expertise.
 
 ## Structure of the Repository
-### Task One : [`Guess The Number`]()
+### Task One : [`Guess The Number`](https://github.com/fromjyce/CipherBytePrograms/blob/main/GuessNumber.java)
 I created a program that generated a random number within a specified range. Users were prompted to guess the number, and the program provided feedback until they guessed correctly. I also added features such as limiting attempts, enabling multiple rounds, and displaying a user score based on attempts or rounds won.
 
-### Task Two: [`ATM Interface`]()
+### Task Two: [`ATM Interface`](https://github.com/fromjyce/CipherBytePrograms/tree/main/ATMInterface)
 I designed an ATM simulation, complete with a user interface for options like withdrawing, depositing, and checking the balance. By creating classes for both the ATM and user bank accounts, I was able to handle transactions effectively. I ensured that user inputs were validated and displayed the outcomes of each transaction.
 
 ### Task Three: [`Online Examination`]()
